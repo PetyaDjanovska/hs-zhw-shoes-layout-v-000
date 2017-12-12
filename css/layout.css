@@ -32,3 +32,11 @@
   float: left;
   width: 65%;
 }
+
+[class*="col-"] {
+  margin-right: 5%;
+}
+
+.last {
+  margin-right: 0%;
+}
